@@ -5,7 +5,7 @@ Welcome to the Predicting House Prices in Bengaluru project. This hackathon, pro
 ## Hackathon Details
 
 - **Hackathon Name:** [Predicting House Prices in Bengaluru](https://machinehack.com/hackathons/predicting_house_prices_in_bengaluru/overview)
-- **Provided by:** [MachineHack](machinehack.com)
+- **Provided by:** [MachineHack](https://machinehack.com)
 - **Profile Link:** [Gandharv Kulkarni](https://machinehack.com/user/65dd51b822401c0019068cb6)
 - **Rank:** 302
 - **Score:** 0.71379
